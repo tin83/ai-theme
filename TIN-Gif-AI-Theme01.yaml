@@ -2,7 +2,7 @@ TIN-Gif-AI-Theme01:
   ### Header Height ###
   header-height: 44px
   ### Main Interface Colors ###
-  lovelace-background: 'center / cover no-repeat url("/local/community/a-bilder/Fav-GIF/ai-001000101110011001.gif") fixed'
+  lovelace-background: 'center / cover no-repeat url("https://github.com/tin83/ai-theme/blob/main/ai-001000101110011001.gif") fixed'
   app-header-background-color: "#141A32"
   card-background-color: "rgba(0, 0, 0, 0.5)"
   primary-color: "#007AFF"
